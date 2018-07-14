@@ -1,0 +1,86 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url("http://www.bonanzaroad.com/wp-content/uploads/2017/04/Jardin-Coffee-Fields-at-Sunset.jpg?gid=70");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+span, p {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px red;
+
+}
+
+
+
+input{
+  background-color: transparent;
+  width: 30%;
+}
+
+select{
+  background-color: transparent;
+  width: 20%;
+}
+
+button{
+  width: auto;
+  background-color: transparent;
+}
+
+.btn-default {
+  background-color: blue;
+  color: white;
+}
+
+.container .jumbotron{
+  background-image: url("https://c1.staticflickr.com/9/8230/8500977650_55acff472d_b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.well{
+  background-color: transparent;
+  border: none;
+}
+
+.col-sm-offset-3{
+  border: 3px solid black;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+}
+
+
+.col-sm-5{
+  border: 3px solid black;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+  text-align: center;
+  width: 50%;
+}
+
+.col-sm-6{
+  border: 3px solid black;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+  text-align: center;
+  width: 25%;
+}
+
+.jumbotron h1, .jumbotron span, .jumbotron p, .jumbotron h2 {
+  color: white;
+  text-shadow: 1px 1px 2px red;
+
+}
+
+#logo{
+  width: 20%;
+  height: 200px;
+}
+.page-header{
+  border: 3px solid black;
+  background-color: blanchedalmond;
+  border-radius: 30px;
+}
